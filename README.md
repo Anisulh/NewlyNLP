@@ -117,10 +117,6 @@ Below are the categories in each dataset and what they map to. Then a global map
     Entertainment = 6 
 
 ```
-As such the model is expected to differentiate science from technology and politics from world.
-
-The model was further trained on the BBC News Dataset, which had a similar classes to the Text Classification Dataset, to improve it classification abilities on larger texts.
-`{'train_runtime': 758.0574, 'train_samples_per_second': 11.741, 'train_steps_per_second': 0.739, 'train_loss': 0.10026595762797764, 'epoch': 5.0}` 
 
 ## License
 
